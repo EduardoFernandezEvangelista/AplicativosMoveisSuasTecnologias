@@ -6,33 +6,6 @@ O objetivo deste projeto é aprender progressivamente desde os conceitos básico
 
 ---
 
-## 🎯 Objetivo do Projeto
-
-Este repositório tem como objetivo aprender e praticar:
-
-* 📱 Desenvolvimento de aplicativos móveis com Flutter.
-* 🧱 Estrutura básica de um projeto Flutter.
-* 🧩 Widgets fundamentais.
-* 🎨 Criação de interfaces modernas.
-* 🌙 Utilização de Dark Theme.
-* ☀️ Tema claro e tema escuro.
-* 🔘 Botões e interações.
-* 🖼️ Exibição de imagens.
-* 📁 Utilização de imagens locais.
-* 🌐 Utilização de imagens através da internet.
-* 🔗 Criação de links externos.
-* 🧭 Navegação entre telas.
-* 🔙 Retorno para a última tela navegada.
-* 📱 Barra de navegação inferior.
-* 🎯 Utilização de ícones.
-* 🖼️ Logo do aplicativo.
-* 📦 Organização da interface.
-* 🔄 Componentes reutilizáveis.
-* 📁 Organização de projetos.
-* 🧠 Boas práticas de desenvolvimento.
-
----
-
 # 🚀 O que é Flutter?
 
 **Flutter** é um framework de desenvolvimento criado para construir aplicações multiplataforma utilizando uma única base de código.
